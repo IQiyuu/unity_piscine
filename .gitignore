@@ -1,0 +1,26 @@
+# Fichiers Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Autres dossiers
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Extensions de fichier à ignorer
+*.swp
+*.lock
+*.lock.json
+*.log
+.DS_Store
